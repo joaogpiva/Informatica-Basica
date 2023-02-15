@@ -14,12 +14,12 @@ def contribuicoes():
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "Alguns de seus principais artigos são: Deep Learning, publicado em 2015; Generative Adversarial Networks, de 2020; e Gradient-based learning applied to document recognition, sua tese de doutorado, de 1998."
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "Bengio já foi citado em 623054 artigos acadêmicos e científicos."
     return mensagem
 
 
