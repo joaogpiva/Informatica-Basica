@@ -4,12 +4,12 @@ def resumo():
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Bengio obteve seu doutorado da universidade McGill, desenvolvendo sua tese sobre um modelo de treinamento de redes neurais usando alinhamento probabilístico, aplicado no reconhecimento de voz"
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "Principalmente machine learning (especificamente o método deep learning, que o levou a ganhar o Prêmio Turing em 2018)\nEm 2022, ele se tornou o cientista da computação com o maior índice h no mundo, ou seja, o mais citado em trabalhos acadêmicos"
     return mensagem
 
 
